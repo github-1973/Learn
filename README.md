@@ -1,1 +1,3 @@
 # Learn
+The Ultimate React Native Installation Guide: Prerequisites and Setup
+https://www.youtube.com/watch?v=XV5LwKuk3zc
