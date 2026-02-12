@@ -1,0 +1,16 @@
+PS D:\Project\repos\repos> python -m virtualenv venvrepos
+
+  PS D:\Project\repos\repos> venvrepos/scripts/activate  
+  
+    (venvrepos) PS D:\Project\repos\repos> pip install django
+
+    (venvrepos) PS D:\Project\repos\repos> django-admin startproject repos 
+
+(venvrepos) PS D:\Project\repos\repos> python.exe -m pip install --upgrade pip
+
+(venvrepos) PS D:\Project\repos\repos> cd repos
+
+    (venvrepos) PS D:\Project\repos\repos> django manage.py startapp assetrepo
+
+    (venvrepos) PS D:\Project\repos\repos> python manage.py runserver
+    
