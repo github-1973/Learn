@@ -13,4 +13,6 @@ PS D:\Project\repos\repos> python -m virtualenv venvrepos
     (venvrepos) PS D:\Project\repos\repos> django manage.py startapp assetrepo
 
     (venvrepos) PS D:\Project\repos\repos> python manage.py runserver
+
+If custom filter in django is used restart the application
     
