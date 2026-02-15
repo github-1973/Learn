@@ -10,7 +10,7 @@ PS D:\Project\repos\repos> python -m virtualenv venvrepos
 
 (venvrepos) PS D:\Project\repos\repos> cd repos
 
-    (venvrepos) PS D:\Project\repos\repos> django manage.py startapp assetrepo
+    (venvrepos) PS D:\Project\repos\repos> python manage.py startapp assetrepo
 
     (venvrepos) PS D:\Project\repos\repos> python manage.py runserver
 
